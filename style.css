@@ -42,7 +42,10 @@ body {
     justify-content: center;
 
 }
-
+.about{
+    padding: 30px;
+    padding-top: 0;
+}
 /* .link-body-emphasis{
     padding-right: 90px;
 } */
